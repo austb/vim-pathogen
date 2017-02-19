@@ -49,6 +49,12 @@
 [submodule "bundle/vim-surround"]
 	path = bundle/vim-surround
 	url = git@github.com:tpope/vim-surround.git
-[submodule "bundle/YankRing.vim"]
-	path = bundle/YankRing.vim
-	url = git@github.com:vim-scripts/YankRing.vim.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = git@github.com:vim-syntastic/syntastic
+[submodule "bundle/EasyMotion"]
+	path = bundle/EasyMotion
+	url = git@github.com:vim-scripts/EasyMotion
+[submodule "bundle/ctrlp.vim"]
+	path = bundle/ctrlp.vim
+	url = git@github.com:ctrlpvim/ctrlp.vim
