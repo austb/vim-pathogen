@@ -67,3 +67,9 @@
 [submodule "bundle/ack.vim"]
 	path = bundle/ack.vim
 	url = git@github.com:mileszs/ack.vim.git
+[submodule "bundle/vim-glsl"]
+	path = bundle/vim-glsl
+	url = git@github.com:tikhomirov/vim-glsl.git
+[submodule "bundle/haskell-vim"]
+	path = bundle/haskell-vim
+	url = git@github.com:neovimhaskell/haskell-vim.git
